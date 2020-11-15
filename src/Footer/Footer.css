@@ -1,7 +1,12 @@
 .footer .footer-bottom {
     background: #202020;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 100px;
+    position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 80px;
 }
 .footer .footer-bottom  ul li a {
     line-height: 30px;
@@ -15,7 +20,7 @@
 .footer-title {
     color: #fff;
     font-size: 1.4rem;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 .footer-title  a{
     color: #fff;

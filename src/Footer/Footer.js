@@ -29,7 +29,7 @@ class Footer extends React.Component {
                         <li><a href="/d">Гарантии</a></li>
                         <li><a href="/s">О сервисе</a></li>
                         <li><a href="/o">Условия возврата</a></li>
-                        <li><a href="/p">Соглашение о использовании сервиса</a></li>
+                    
                     </ul>
                 </div>
             </div>
@@ -43,14 +43,7 @@ class Footer extends React.Component {
                 <ul className="link">
                 </ul>
             </div>
-            <div className="flex-item">
-                <div className="clearfix payment-methods">
-                    <ul>
-                        <img src="/skin/default/images/dummy.png" data-toggle="tooltip" data-placement="top"
-                             data-original-title="www.webmoney.ru" alt=""/>
-                    </ul>
-                </div>
-            </div>
+           
         </div>
     </div>
 </footer>
